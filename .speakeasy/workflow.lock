@@ -1,12 +1,12 @@
-speakeasyVersion: 1.454.0
+speakeasyVersion: 1.470.1
 sources:
     livepeer-studio-api:
         sourceNamespace: livepeer-studio-api
-        sourceRevisionDigest: sha256:3fb24bb841ffcc213256d0b46bd4a974b11a15b119b5ef9ff972d8bbe96b5528
+        sourceRevisionDigest: sha256:1167b4ee448f48cf67df3ca5bfac3c24344c96655ce4912ae5ebd194d2a0cd9c
         sourceBlobDigest: sha256:aa1eb89ec2088921bffdf630acb4a5a9169b5384806ebcdb19a321a6ed15dceb
         tags:
             - latest
-            - speakeasy-sdk-regen-1731024221
+            - speakeasy-sdk-regen-1734048230
             - 1.0.0
 targets: {}
 workflow:
